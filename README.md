@@ -13,7 +13,7 @@ An application that uses deep learning to predict the age and gender of a person
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 This Age and Gender Detector uses a Convolutional Neural Network (CNN) to predict a person's age and gender based on their facial image. The model is trained on the UTKFace dataset and provides a user-friendly GUI for easy interaction.
@@ -107,6 +107,11 @@ Training parameters:
 The model achieves:
 - Gender prediction accuracy: [Add your accuracy here]
 - Age prediction MAE: [Add your MAE here]
+![image](https://github.com/user-attachments/assets/2de113d7-c9db-4380-bc5d-d765fa7412ec)
+![image](https://github.com/user-attachments/assets/247c2012-2e74-44eb-a5b5-756a40947c57)
+![image](https://github.com/user-attachments/assets/4448de90-0b8f-450c-a7bd-054fe908e970)
+![image](https://github.com/user-attachments/assets/9e78c5f7-0a78-4780-bfef-a826b11a7b7c)
+![image](https://github.com/user-attachments/assets/d978d1df-998d-4331-858e-5259ba73d49c)
 
 ## Contributing
 Contributions to improve the model or add features are welcome:
@@ -115,10 +120,3 @@ Contributions to improve the model or add features are welcome:
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
-   
-**Results**
-![image](https://github.com/user-attachments/assets/2de113d7-c9db-4380-bc5d-d765fa7412ec)
-![image](https://github.com/user-attachments/assets/247c2012-2e74-44eb-a5b5-756a40947c57)
-![image](https://github.com/user-attachments/assets/4448de90-0b8f-450c-a7bd-054fe908e970)
-![image](https://github.com/user-attachments/assets/9e78c5f7-0a78-4780-bfef-a826b11a7b7c)
-![image](https://github.com/user-attachments/assets/d978d1df-998d-4331-858e-5259ba73d49c)
