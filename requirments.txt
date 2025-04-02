@@ -1,0 +1,18 @@
+# Core dependencies
+tensorflow>=2.4.0
+numpy>=1.19.2
+opencv-python>=4.5.1
+matplotlib>=3.3.4
+scikit-learn>=0.24.1
+
+# Image processing
+Pillow>=8.1.0
+
+# GUI
+tk>=0.1.0
+
+# Model evaluation
+pandas>=1.2.3
+
+# Utilities
+tqdm>=4.59.0
